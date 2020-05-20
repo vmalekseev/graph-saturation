@@ -1,0 +1,31 @@
+﻿<Window x:Class="MainProject.LoaderWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MainProject"
+        mc:Ignorable="d"
+        Height="480" Width="750" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+
+
+    <Grid x:Name="grid" Background="#222E31">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="8*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="6*"></ColumnDefinition>
+            <ColumnDefinition Width="4*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Label Grid.ColumnSpan="2" Foreground="WhiteSmoke" FontSize="30" HorizontalAlignment="Center" HorizontalContentAlignment="Center" Margin="194,0,143,0" Width="377">Выберите один из графов</Label>
+        <ScrollViewer Grid.Row="1">
+            <StackPanel x:Name="panel">
+
+            </StackPanel>
+        </ScrollViewer>
+        <TextBlock x:Name="textBlock" Grid.Column="1" Grid.Row="1"
+                   Foreground="WhiteSmoke" FontSize="16"
+                   HorizontalAlignment="Center"></TextBlock>
+        <Button Content="Назад" VerticalContentAlignment="Center" FontSize="28" Click="OnBackButtonClick" Margin="5,340,5,5" Grid.Row="1" Grid.Column="1" Height="Auto"/>
+    </Grid>
+</Window>

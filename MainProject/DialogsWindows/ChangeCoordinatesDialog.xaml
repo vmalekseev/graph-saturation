@@ -1,0 +1,27 @@
+﻿<Window x:Class="MainProject.ChangeCoordinatesDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MainProject"
+        mc:Ignorable="d"
+        Height="200" Width="300" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid Background="#222E31">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="32*"></ColumnDefinition>
+            <ColumnDefinition Width="115*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Label Foreground="WhiteSmoke">Введите X:</Label>
+        <Label Grid.Row="1" Foreground="WhiteSmoke">Введите Y:</Label>
+        <Label Foreground="WhiteSmoke" Grid.ColumnSpan="2" Grid.Row="2"> X от 0 до 1000; Y от 0 до 665; (целые)</Label>
+        <TextBox  Foreground="WhiteSmoke" Grid.Column="1" x:Name="xBox" HorizontalContentAlignment="Center" Margin="5,0,10,0"></TextBox>
+        <TextBox  Foreground="WhiteSmoke" Grid.Column="1" Grid.Row="1" x:Name="yBox" HorizontalContentAlignment="Center" Margin="5,0,10,0"></TextBox>
+        <Button Grid.ColumnSpan="2" Grid.Row="3" Content="OK" Click="OnOkButtonClick" Height="Auto" Margin="10,24,10,10"></Button>
+    </Grid>
+</Window>

@@ -1,0 +1,21 @@
+﻿<Window x:Class="MainProject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MainProject"
+        mc:Ignorable="d"
+        Height="720" Width="1280" ResizeMode="NoResize" Topmost="True">
+    
+
+    <Grid Background="#222E31">
+        <TextBlock HorizontalAlignment="Center" Foreground="WhiteSmoke" FontSize="65">Программа для нахождения</TextBlock>
+        <TextBlock HorizontalAlignment="Center" Foreground="WhiteSmoke" FontSize="65" Margin="85,74,72,-74">времени насыщения метрического</TextBlock>
+        <TextBlock HorizontalAlignment="Center" Foreground="WhiteSmoke" FontSize="65" Margin="546,148,555,-148">графа</TextBlock>
+
+        <Button Click="OnOpenLoaderCLick"  Content="Загрузить граф"  FontSize="60" Margin="10,254,338,307" Height="Auto" RenderTransformOrigin="0.5,0.5"/>
+        <Button Click="OnOpenCreatorCLick" BorderThickness="0" Background="#1C8FC5"  Content="Создать новый граф" FontSize="60" Margin="10,389,338,172" Height="Auto" RenderTransformOrigin="0.5,0.5"/>
+        <Button Click="OnOpenChartLoaderClick"  Content="Открыть график"  FontSize="60" Margin="10,524,338,37" Height="Auto" RenderTransformOrigin="0.5,0.5"/>
+        <Image Name="img"  Margin="941,308,10,82" Source="/GraphProject;component/Resources/graphImg.png"></Image>
+    </Grid>
+</Window>

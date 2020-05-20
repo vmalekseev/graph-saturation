@@ -1,0 +1,94 @@
+C:\MyProjects\MainProject\MainProject\obj\Debug\MainProject.csprojAssemblyReference.cache
+C:\MyProjects\MainProject\MainProject\obj\Debug\App.g.cs
+C:\MyProjects\MainProject\MainProject\obj\Debug\MainProject.Properties.Resources.resources
+C:\MyProjects\MainProject\MainProject\obj\Debug\MainProject.csproj.GenerateResource.cache
+C:\MyProjects\MainProject\MainProject\bin\Debug\GraphLibrary.dll
+C:\MyProjects\MainProject\MainProject\bin\Debug\GraphLibrary.pdb
+C:\MyProjects\MainProject\MainProject\obj\Debug\MainProject.csproj.CopyComplete
+C:\MyProjects\MainProject\MainProject\obj\Debug\DialogsWindows\ChangeCoordinatesDialog.g.cs
+C:\MyProjects\MainProject\MainProject\obj\Debug\DialogsWindows\NamiingGraphDialog.g.cs
+C:\MyProjects\MainProject\MainProject\obj\Debug\DialogsWindows\ChangeCoordinatesDialog.baml
+C:\MyProjects\MainProject\MainProject\obj\Debug\DialogsWindows\NamiingGraphDialog.baml
+C:\MyProjects\MainProject\MainProject\obj\Debug\Windows\CreatorWindow.g.cs
+C:\MyProjects\MainProject\MainProject\obj\Debug\Windows\LoaderWindow.g.cs
+C:\MyProjects\MainProject\MainProject\obj\Debug\Windows\CreatorWindow.baml
+C:\MyProjects\MainProject\MainProject\obj\Debug\Windows\LoaderWindow.baml
+C:\MyProjects\MainProject\MainProject\obj\Debug\Windows\SolutionWindow.g.cs
+C:\MyProjects\MainProject\MainProject\obj\Debug\Windows\SolutionWindow.baml
+C:\MyProjects\MainProject\MainProject\obj\Debug\Windows\ChartWindow.g.cs
+C:\MyProjects\MainProject\MainProject\obj\Debug\Windows\ChartWindow.baml
+C:\MyProjects\MainProject\MainProject\bin\Debug\LiveCharts.dll
+C:\MyProjects\MainProject\MainProject\bin\Debug\LiveCharts.Wpf.dll
+C:\MyProjects\MainProject\MainProject\bin\Debug\LiveCharts.pdb
+C:\MyProjects\MainProject\MainProject\bin\Debug\LiveCharts.xml
+C:\MyProjects\MainProject\MainProject\bin\Debug\LiveCharts.Wpf.pdb
+C:\MyProjects\MainProject\MainProject\bin\Debug\LiveCharts.Wpf.xml
+C:\MyProjects\MainProject\MainProject\bin\Debug\MaterialDesignColors.dll
+C:\MyProjects\MainProject\MainProject\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\MyProjects\MainProject\MainProject\bin\Debug\MaterialDesignColors.pdb
+C:\MyProjects\MainProject\MainProject\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\MyProjects\MainProject\MainProject\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\MyProjects\MainProject\MainProject\obj\Debug\App.baml
+C:\MyProjects\MainProject\MainProject\obj\Debug\Windows\MainWindow.g.cs
+C:\MyProjects\MainProject\MainProject\obj\Debug\Windows\MainWindow.baml
+C:\MyProjects\MainProject\MainProject\obj\Debug\DialogsWindows\NamiingChartDialog.g.cs
+C:\MyProjects\MainProject\MainProject\obj\Debug\DialogsWindows\NamiingChartDialog.baml
+C:\MyProjects\MainProject\MainProject\obj\Debug\Windows\ChartLoaderWindow.g.cs
+C:\MyProjects\MainProject\MainProject\obj\Debug\Windows\ChartLoaderWindow.baml
+C:\MyProjects\MainProject\MainProject\obj\Debug\DialogsWindows\ChangeEdgeLengthDialog.g.cs
+C:\MyProjects\MainProject\MainProject\obj\Debug\DialogsWindows\ChangeEdgeLengthDialog.baml
+C:\MyProjects\MainProject\MainProject\bin\Debug\Graph Saturation.exe.config
+C:\MyProjects\MainProject\MainProject\bin\Debug\Graph Saturation.exe
+C:\MyProjects\MainProject\MainProject\bin\Debug\Graph Saturation.pdb
+C:\MyProjects\MainProject\MainProject\obj\Debug\Graph Saturation_MarkupCompile.cache
+C:\MyProjects\MainProject\MainProject\obj\Debug\Graph Saturation_MarkupCompile.lref
+C:\MyProjects\MainProject\MainProject\obj\Debug\Graph Saturation.g.resources
+C:\MyProjects\MainProject\MainProject\obj\Debug\Graph Saturation.exe
+C:\MyProjects\MainProject\MainProject\obj\Debug\Graph Saturation.pdb
+C:\MyProjects\Graph Saturation\MainProject\bin\Debug\Graph Saturation.exe.config
+C:\MyProjects\Graph Saturation\MainProject\bin\Debug\Graph Saturation.exe
+C:\MyProjects\Graph Saturation\MainProject\bin\Debug\Graph Saturation.pdb
+C:\MyProjects\Graph Saturation\MainProject\bin\Debug\GraphLibrary.dll
+C:\MyProjects\Graph Saturation\MainProject\bin\Debug\LiveCharts.dll
+C:\MyProjects\Graph Saturation\MainProject\bin\Debug\LiveCharts.Wpf.dll
+C:\MyProjects\Graph Saturation\MainProject\bin\Debug\MaterialDesignColors.dll
+C:\MyProjects\Graph Saturation\MainProject\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\MyProjects\Graph Saturation\MainProject\bin\Debug\GraphLibrary.pdb
+C:\MyProjects\Graph Saturation\MainProject\bin\Debug\LiveCharts.pdb
+C:\MyProjects\Graph Saturation\MainProject\bin\Debug\LiveCharts.xml
+C:\MyProjects\Graph Saturation\MainProject\bin\Debug\LiveCharts.Wpf.pdb
+C:\MyProjects\Graph Saturation\MainProject\bin\Debug\LiveCharts.Wpf.xml
+C:\MyProjects\Graph Saturation\MainProject\bin\Debug\MaterialDesignColors.pdb
+C:\MyProjects\Graph Saturation\MainProject\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\MyProjects\Graph Saturation\MainProject\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\MyProjects\Graph Saturation\MainProject\obj\Debug\MainProject.csprojAssemblyReference.cache
+C:\MyProjects\Graph Saturation\MainProject\obj\Debug\DialogsWindows\ChangeCoordinatesDialog.g.cs
+C:\MyProjects\Graph Saturation\MainProject\obj\Debug\DialogsWindows\ChangeEdgeLengthDialog.g.cs
+C:\MyProjects\Graph Saturation\MainProject\obj\Debug\DialogsWindows\NamiingChartDialog.g.cs
+C:\MyProjects\Graph Saturation\MainProject\obj\Debug\Windows\ChartWindow.g.cs
+C:\MyProjects\Graph Saturation\MainProject\obj\Debug\Windows\ChartLoaderWindow.g.cs
+C:\MyProjects\Graph Saturation\MainProject\obj\Debug\Windows\SolutionWindow.g.cs
+C:\MyProjects\Graph Saturation\MainProject\obj\Debug\Windows\CreatorWindow.g.cs
+C:\MyProjects\Graph Saturation\MainProject\obj\Debug\Windows\LoaderWindow.g.cs
+C:\MyProjects\Graph Saturation\MainProject\obj\Debug\Windows\MainWindow.g.cs
+C:\MyProjects\Graph Saturation\MainProject\obj\Debug\DialogsWindows\NamiingGraphDialog.g.cs
+C:\MyProjects\Graph Saturation\MainProject\obj\Debug\App.g.cs
+C:\MyProjects\Graph Saturation\MainProject\obj\Debug\Graph Saturation_MarkupCompile.cache
+C:\MyProjects\Graph Saturation\MainProject\obj\Debug\Graph Saturation_MarkupCompile.lref
+C:\MyProjects\Graph Saturation\MainProject\obj\Debug\App.baml
+C:\MyProjects\Graph Saturation\MainProject\obj\Debug\DialogsWindows\ChangeCoordinatesDialog.baml
+C:\MyProjects\Graph Saturation\MainProject\obj\Debug\DialogsWindows\ChangeEdgeLengthDialog.baml
+C:\MyProjects\Graph Saturation\MainProject\obj\Debug\DialogsWindows\NamiingChartDialog.baml
+C:\MyProjects\Graph Saturation\MainProject\obj\Debug\Windows\ChartWindow.baml
+C:\MyProjects\Graph Saturation\MainProject\obj\Debug\Windows\ChartLoaderWindow.baml
+C:\MyProjects\Graph Saturation\MainProject\obj\Debug\Windows\SolutionWindow.baml
+C:\MyProjects\Graph Saturation\MainProject\obj\Debug\Windows\CreatorWindow.baml
+C:\MyProjects\Graph Saturation\MainProject\obj\Debug\Windows\LoaderWindow.baml
+C:\MyProjects\Graph Saturation\MainProject\obj\Debug\Windows\MainWindow.baml
+C:\MyProjects\Graph Saturation\MainProject\obj\Debug\DialogsWindows\NamiingGraphDialog.baml
+C:\MyProjects\Graph Saturation\MainProject\obj\Debug\Graph Saturation.g.resources
+C:\MyProjects\Graph Saturation\MainProject\obj\Debug\MainProject.Properties.Resources.resources
+C:\MyProjects\Graph Saturation\MainProject\obj\Debug\MainProject.csproj.GenerateResource.cache
+C:\MyProjects\Graph Saturation\MainProject\obj\Debug\MainProject.csproj.CopyComplete
+C:\MyProjects\Graph Saturation\MainProject\obj\Debug\Graph Saturation.exe
+C:\MyProjects\Graph Saturation\MainProject\obj\Debug\Graph Saturation.pdb

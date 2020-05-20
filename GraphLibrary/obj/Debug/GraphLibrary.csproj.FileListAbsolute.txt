@@ -1,0 +1,10 @@
+C:\MyProjects\MainProject\GraphLibrary\bin\Debug\GraphLibrary.dll
+C:\MyProjects\MainProject\GraphLibrary\bin\Debug\GraphLibrary.pdb
+C:\MyProjects\MainProject\GraphLibrary\obj\Debug\GraphLibrary.dll
+C:\MyProjects\MainProject\GraphLibrary\obj\Debug\GraphLibrary.pdb
+C:\MyProjects\MainProject\GraphLibrary\obj\Debug\GraphLibrary.csprojAssemblyReference.cache
+C:\MyProjects\Graph Saturation\GraphLibrary\bin\Debug\GraphLibrary.dll
+C:\MyProjects\Graph Saturation\GraphLibrary\bin\Debug\GraphLibrary.pdb
+C:\MyProjects\Graph Saturation\GraphLibrary\obj\Debug\GraphLibrary.csprojAssemblyReference.cache
+C:\MyProjects\Graph Saturation\GraphLibrary\obj\Debug\GraphLibrary.dll
+C:\MyProjects\Graph Saturation\GraphLibrary\obj\Debug\GraphLibrary.pdb
